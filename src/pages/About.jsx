@@ -17,7 +17,7 @@ export default function About() {
       <section>
         <div className="wrap">
           <div className="section-head">
-            <div className="eyebrow">What we're not</div>
+            <div className="eyebrow">What we're not doing</div>
             <h2>Not a booking platform. A route.</h2>
             <p className="lede">
               We don't aggregate other operators' trips or resell hotel inventory. Every route on
