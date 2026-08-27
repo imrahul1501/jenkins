@@ -13,7 +13,7 @@ export default function Contact() {
     <section>
       <div className="wrap contact-grid">
         <div>
-          <div className="eyebrow">Contact</div>
+          <div className="eyebrow">Contact Us</div>
           <h1>Talk to a trip planner</h1>
           <p className="lede">
             Every message routes to a planner who has actually run at least one of these trips.
