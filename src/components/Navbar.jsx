@@ -16,7 +16,7 @@ export default function Navbar() {
   return (
     <header className="navbar">
       <div className="wrap">
-        <NavLink to="/" className="brand">RahulKumar<span>flungs</span></NavLink>
+        <NavLink to="/" className="brand">Mr. <span>flungs</span></NavLink>
         <nav className="nav-links">
           {links.map((l) => (
             <NavLink key={l.to} to={l.to} end={l.end}>{l.label}</NavLink>
